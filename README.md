@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá! Bem-vindo ao meu GitHub Profile!</h1>
-  <p>Front‑end Developer | HTML • CSS • React • Node • Git</p>
+  <p>Front‑end Developer | HTML • CSS • React •JavaScript • Node • Git</p>
 </div>
 
 ---
