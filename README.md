@@ -7,7 +7,7 @@
 
 ## 📌 Sobre mim
 
-Sou desenvolvedor front-end com formação em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na FIAP. Apaixonado por soluções criativas e soluções otimizadas.
+Sou desenvolvedor front-end com formação em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na FIAP. Apaixonado por desenvolvimento criativo e soluções otimizadas.
 
 Tenho grande interesse em projetos que conectam tecnologia com impacto real, especialmente nas áreas de saúde, psicologia e educação. Atualmente, venho desenvolvendo soluções como plataformas de apoio acadêmico, sistemas interativos e aplicações voltadas à prevenção e conscientização.
 
